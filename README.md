@@ -26,8 +26,6 @@ The placeholder of the data is data\Raw\MedicalData\Node.csv
 
 ## Setup Instructions
 
-TODO: Complete these setup steps after creating your `requirements.txt`:
-
 ```bash
 python -m venv .venv
 
