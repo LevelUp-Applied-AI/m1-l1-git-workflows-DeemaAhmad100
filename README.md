@@ -1,5 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/FdVrU54p)
+
 # [Project Title — Byte 2 Beat ,machine learning models that support early detection, progression forecasting, or interpretability of Cardiovascular Disease risk. ]
+
 # Team Members :
 Deema Shboul : AI Engineer
 Hadeel BaniHani : AI Engineer 
@@ -25,7 +27,7 @@ for how to obtain and place the data files before running any analysis.
 The placeholder of the data is data\Raw\MedicalData\Node.csv 
 
 ## Setup Instructions
-
+TODO: Complete these setup steps after creating your `requirements.txt`:
 ```bash
 python -m venv .venv
 
